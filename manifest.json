@@ -1,0 +1,20 @@
+{
+  "name": "Aplikasi Sistem Retribusi Parkir",
+  "short_name": "Parkir",
+  "start_url": "/aspri-ci3-redesign",
+  "display": "standalone",
+  "theme_color": "#1E90FF",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/aspri/assets/img/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/aspri/assets/img/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
