@@ -8,11 +8,25 @@ ASPRI merupakan hasil pengembangan Danz Dev sebagai solusi digital untuk menduku
 
 **Implementation**
 
-Dinas Perhubungan Kota Tasikmalaya  
-*Telah digunakan dalam mendukung operasional dan administrasi pengelolaan retribusi parkir.*
+**Dinas Perhubungan Kota Tasikmalaya**
+
+Telah digunakan untuk mendukung operasional dan administrasi pengelolaan retribusi parkir.
 
 ---
 
+<p align="center">
+
+<strong>ASPRI</strong>
+
+Digital Parking Retribution System
+
+A Digital Solution for Better Administration.
+
+<strong>Made with dedication by <a href="https://danzdev.web.id">Danz Dev</a></strong>
+
+© 2026 Danz Dev. All Rights Reserved.
+
+</p>
 <p align="center">
 
 ### ASPRI
